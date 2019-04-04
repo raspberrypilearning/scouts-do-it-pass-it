@@ -102,7 +102,7 @@ You'll start with showing a letter 'A' to tell the player to press the 'A' butto
 
 1. Open the MakeCode editor using this link: rpf.io/makecode. 
 
-2. Add a new variable to store the action that the player needs to take:
+2. Add a new variable called **action** to store the action that the player needs to take:
 
   ![Add an action variable](images/doit-action-variable.png)
 
@@ -227,7 +227,7 @@ You can also use readings from micro:bit sensors as inputs. You're going to add 
 
 3. The `light level` variable returns a number from 0 (dark) to 255 (bright). When you first use the light sensor on the micro:bit it returns 255 initially so we need to wait until the number drops. (This also means that you can't just shine a light on the micro:bit all of the time and cheat!)
 
-  ![screenshot](images/doit-light-sensor.png)
+  ![screenshot](images/doit-light-level.png)
 
 4. Now add code to check for the light level being high when the corresponding action is selected:
 

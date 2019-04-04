@@ -4,7 +4,7 @@
 
 ## Overview
 
-This activity fulfills Stage 3, Requirement 2 of the Digital Maker Staged Activity Badge (Use a programmable device (such as Arduino, Raspberry Pi, or micro:bit) with electronic components, code, and appropriate materials to create an electronic gadget and use it in a Scouting activity.)
+This activity fulfills Stage 2, Requirement 3 of the Digital Maker Staged Activity Badge (Make a simple digital creation that uses code to interact with the wider world through inputs (such as buttons or typing on a keyboard) and outputs (such as a computer screen, sound, or lights).
 
 Young people will make a 'Do it; pass it' game using the BBC micro:bit. Players will need to perform an action shown on the micro:bit and then pass the micro:bit on to the next person. When the timer runs out the group will see their score and can keep playing to try and beat it. 
 

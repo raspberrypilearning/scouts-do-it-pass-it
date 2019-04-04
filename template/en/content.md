@@ -259,7 +259,18 @@ Ideas to try:
 + How about adding different outputs. You could light up a green LED when you complete an action, or add a buzzer for sound effects. 
 
 
+########################## NOTES FOR DESIGN ###########################################
 
+Code images can be cropped with new/changed code added highlighted. 
+
+doit-random-3.png - highlight number '3' in 'pick random' block
+doit-show-0.png - highlight final else/if and else sections
+
+doit-light.png - highlight number '4' in 'pick random' block and final else/if and else sections
+doit-light-level.png - highlight new 'while' block
+doit-light-check.png - highlight new code in lower 'while' block
+
+Alternatvely, just include the doit-light-check image and annotate the steps against the corresponding changes. 
 
 
 
